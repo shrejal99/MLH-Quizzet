@@ -91,9 +91,10 @@ $ python app.py
 
 | S.No. | Name               |  
 | ----- | ------------------ | 
-| 1.    | Pragati Verma      | 
-| 2.    | Kshitij Kotasthane |
-| 3.    | Vignesh S          |
+| 1.    | Aaquib Ali         | 
+| 2.    | Ekta Arora         |
+| 3.    | Shrejal Singh      |
+| 4.    | Ruthvik kanukunta   
 
 
 <br>

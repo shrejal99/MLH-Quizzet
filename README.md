@@ -13,9 +13,8 @@
 ## WorkFlow
 ![workflow](https://user-images.githubusercontent.com/42115530/95686207-1111e300-0c1a-11eb-993a-766967b91c92.png)
 
+
 ## Technology Stack:
-
-
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 - **Frontend**: HTML, CSS, Vanilla JS
@@ -84,7 +83,8 @@ $ python app.py
 - **Safari**: version 5.2 and up
 - **Internet Explorer/Edge**: version 8 and up
 - **Opera**: version 9 and up
-  > **Note**: Support for modern mobile browsers is experimental. The website is not responsive in mobile devices until now.
+- **Note**: Support for modern mobile browsers is experimental. The website is not responsive in mobile devices until now.
+
 ## Team:
 
 > "Alone we can do so little; together we can do so much."
@@ -94,7 +94,7 @@ $ python app.py
 | 1.    | Aaquib Ali         | 
 | 2.    | Ekta Arora         |
 | 3.    | Shrejal Singh      |
-| 4.    | Ruthvik kanukunta   
+| 4.    | Ruthvik kanukunta  | 
 
 
 <br>
@@ -102,7 +102,7 @@ $ python app.py
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)): Shrejal Singh, 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

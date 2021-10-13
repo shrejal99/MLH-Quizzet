@@ -2,15 +2,6 @@
 
 <p align="center"> This is a smart Quiz Generator that generates a dynamic quiz from any uploaded text/PDF document using NLP. This can be used for self-analysis, question paper generation, and evaluation, thus reducing human effort. </p>
 
-[![Forks](https://img.shields.io/github/forks/AaquibAli/Fantastic-Falcons-1.0?style=social)](https://github.com/AaquibAli/Fantastic-Falcons-1.0/network/members)
-[![Stars](https://img.shields.io/github/stars/AaquibAli/Fantastic-Falcons-1.0?style=social)](https://github.com/AaquibAli/Fantastic-Falcons-1.0/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/AaquibAli/Fantastic-Falcons-1.0?style=social)](https://github.com/AaquibAli/Fantastic-Falcons-1.0/watchers)
-[![PRs](https://img.shields.io/github/issues-pr/AaquibAli/Fantastic-Falcons-1.0)](https://github.com/AaquibAli/Fantastic-Falcons-1.0/pulls)
-[![Issues](https://img.shields.io/github/issues/AaquibAli/Fantastic-Falcons-1.0)](https://github.com/AaquibAli/Fantastic-Falcons-1.0/issues)
-[![License](https://img.shields.io/github/license/AaquibAli/Fantastic-Falcons-1.0)](https://github.com/AaquibAli/Fantastic-Falcons-1.0/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/AaquibAli/Fantastic-Falcons-1.0/graphs/commit-activity)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/AaquibAli/Fantastic-Falcons-1.0/)
-
 ## Features
 
 - implements automatic question generation _(AQG) techniques_
@@ -98,11 +89,11 @@ $ python app.py
 
 > "Alone we can do so little; together we can do so much."
 
-| S.No. | Name               | Role               | GitHub Username:octocat:                             |
-| ----- | ------------------ | ------------------ | ---------------------------------------------------- |
-| 1.    | Pragati Verma      | Frontend Developer | [@PragatiVerma18](https://github.com/PragatiVerma18) |
-| 2.    | Kshitij Kotasthane | Backend Developer  | [@kshitij86](https://github.com/kshitij86)           |
-| 3.    | Vignesh S          | ML                 | [@telescopic](https://github.com/telescopic)         |
+| S.No. | Name               |  
+| ----- | ------------------ | 
+| 1.    | Pragati Verma      | 
+| 2.    | Kshitij Kotasthane |
+| 3.    | Vignesh S          |
 
 
 <br>
